@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcc7c6a9-08a1-4626-af41-7d9ef7df8cc0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0007556469695031" />
+      <entry key="MS500" value="1.2379817696149542" />
+      <entry key="S2" value="1.9349440729248935" />
+      <entry key="S5" value="3.6235738519760803" />
+      <entry key="S10" value="6.364983134940558" />
+      <entry key="S30" value="11.359351632213231" />
+      <entry key="S60" value="13.799134654129073" />
+      <entry key="M2" value="15.54471955842043" />
+      <entry key="M5" value="16.902602961509878" />
+      <entry key="M10" value="17.42869554907555" />
+      <entry key="M15" value="17.613814876010604" />
+      <entry key="M30" value="17.80417223382591" />
+      <entry key="H1" value="17.901387349987292" />
+      <entry key="H2" value="17.95051707276949" />
+      <entry key="H4" value="17.975214144486113" />
+      <entry key="D1" value="17.99586283793644" />
+      <entry key="W1" value="17.999408825081183" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.025898503635404E-20" />
+      <entry key="MS500" value="1.1516580211124998E-4" />
+      <entry key="S2" value="0.10359650255183285" />
+      <entry key="S5" value="0.41025557259714546" />
+      <entry key="S10" value="0.71597058096425" />
+      <entry key="S30" value="1.2915760789671764" />
+      <entry key="S60" value="1.5843691652532113" />
+      <entry key="M2" value="1.7735710695270859" />
+      <entry key="M5" value="1.9044613733656277" />
+      <entry key="M10" value="1.9513571747406409" />
+      <entry key="M15" value="1.9673737983601347" />
+      <entry key="M30" value="1.983587173550725" />
+      <entry key="H1" value="1.9917684851648016" />
+      <entry key="H2" value="1.9958779457744986" />
+      <entry key="H4" value="1.997937396001456" />
+      <entry key="D1" value="1.9996560134268204" />
+      <entry key="W1" value="1.9999508536888513" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0032003893321453846" />
+      <entry key="MS500" value="0.5251762955798527" />
+      <entry key="S2" value="1.7196167498271153" />
+      <entry key="S5" value="3.7836457824195" />
+      <entry key="S10" value="6.86291793290935" />
+      <entry key="S30" value="12.517828569983896" />
+      <entry key="S60" value="15.302320716441226" />
+      <entry key="M2" value="17.272923924453927" />
+      <entry key="M5" value="18.787561111687726" />
+      <entry key="M10" value="19.37005286913332" />
+      <entry key="M15" value="19.574465083114355" />
+      <entry key="M30" value="19.784368613049843" />
+      <entry key="H1" value="19.891453094448472" />
+      <entry key="H2" value="19.945541800360182" />
+      <entry key="H4" value="19.972724467930682" />
+      <entry key="D1" value="19.995447608105092" />
+      <entry key="W1" value="19.99934949958048" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FvpsyWshqWsxZ2JJCLzd0J4dh4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MainTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/suraj/OneDrive/Desktop/Cognizant_FSE/DeepSkilling/Module 4/JUnit Basic Testing/Exercise1/CalculatorProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/suraj/OneDrive/Desktop/Cognizant_FSE/DeepSkilling/Module 4/JUnit Basic Testing/Exercise1/CalculatorProject/src/main/java/org/example/Main.java",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc7c6a9-08a1-4626-af41-7d9ef7df8cc0" name="Changes" comment="" />
+      <created>1782965610202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782965610202</updated>
+      <workItem from="1782965618912" duration="1010000" />
+      <workItem from="1782966889260" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

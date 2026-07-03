@@ -9,7 +9,6 @@ public class Logging {
     public static void main(String[] args) {
 
         logger.error("This is an error message.");
-
         logger.warn("This is a warning message.");
     }
 }

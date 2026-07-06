@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd9c044c-78e0-4da6-8904-f21518b8a538" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/src/main/java/com/cognizant/springlearn/SpringRestCountryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/src/main/java/com/cognizant/springlearn/controller/CountryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/src/main/java/com/cognizant/springlearn/model/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/src/main/resources/country.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise3/spring-rest-country/src/test/java/com/cognizant/springlearn/SpringRestCountryApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0001311949673897" />
+      <entry key="S2" value="1.1070235355683071" />
+      <entry key="S5" value="1.40906449391322" />
+      <entry key="S10" value="1.6405184969093387" />
+      <entry key="S30" value="2.480386699675872" />
+      <entry key="S60" value="5.141207223722261" />
+      <entry key="M2" value="9.332694880608313" />
+      <entry key="M5" value="14.14428331010136" />
+      <entry key="M10" value="16.367809469461314" />
+      <entry key="M15" value="17.19629608913188" />
+      <entry key="M30" value="18.072752430076754" />
+      <entry key="H1" value="18.52984449690796" />
+      <entry key="H2" value="18.763265882366937" />
+      <entry key="H4" value="18.881215882730718" />
+      <entry key="D1" value="18.98014446875707" />
+      <entry key="W1" value="18.99716206744188" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.348221613588172E-6" />
+      <entry key="MS500" value="0.07484241903868304" />
+      <entry key="S2" value="0.5230424698962647" />
+      <entry key="S5" value="0.7716400875294674" />
+      <entry key="S10" value="0.8784304682383617" />
+      <entry key="S30" value="0.9577139137578852" />
+      <entry key="S60" value="0.9786285882590419" />
+      <entry key="M2" value="0.9892565836318916" />
+      <entry key="M5" value="0.995688703013796" />
+      <entry key="M10" value="0.9978420230746928" />
+      <entry key="M15" value="0.9985608307901904" />
+      <entry key="M30" value="0.9992801563076245" />
+      <entry key="H1" value="0.9996400133586212" />
+      <entry key="H2" value="0.9998199904775965" />
+      <entry key="H4" value="0.9999099911880052" />
+      <entry key="D1" value="0.9999849979686931" />
+      <entry key="W1" value="0.9999978568388911" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.6871766097571E-4" />
+      <entry key="MS500" value="0.2342773954545047" />
+      <entry key="S2" value="1.1074311388517213" />
+      <entry key="S5" value="1.8962484589952486" />
+      <entry key="S10" value="2.359157548275773" />
+      <entry key="S30" value="3.3752834505711595" />
+      <entry key="S60" value="6.076835328831477" />
+      <entry key="M2" value="10.291297059443002" />
+      <entry key="M5" value="15.123467689748207" />
+      <entry key="M10" value="17.356413499717394" />
+      <entry key="M15" value="18.18845286743142" />
+      <entry key="M30" value="19.068700620215285" />
+      <entry key="H1" value="19.52778461622022" />
+      <entry key="H2" value="19.762227263671573" />
+      <entry key="H4" value="19.880694380347702" />
+      <entry key="D1" value="19.980057245096184" />
+      <entry key="W1" value="19.997149599384088" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3G7WyUkQ3u6bgDBRpCUyCHVNgMR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/suraj/OneDrive/Desktop/Cognizant_FSE/DeepSkilling/Module 7/Spring REST using Spring Boot3/Exercise4",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringRestCountryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring-rest-country" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cognizant.springlearn.SpringRestCountryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd9c044c-78e0-4da6-8904-f21518b8a538" name="Changes" comment="" />
+      <created>1783323343442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783323343442</updated>
+      <workItem from="1783323344281" duration="292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
